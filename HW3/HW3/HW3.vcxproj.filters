@@ -21,6 +21,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="D:\AI\SMB\CPPexample\15puzzle\FifteenPuzzle\heap.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HW3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
